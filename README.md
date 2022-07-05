@@ -1,2 +1,2 @@
-# Ice-Module
+# Snow-Module
 My tiny UI library
