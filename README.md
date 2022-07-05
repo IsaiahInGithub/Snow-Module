@@ -1,3 +1,3 @@
-# Snow-Module - Still in Beta
+# Snow-Module
 
 My tiny UI library
