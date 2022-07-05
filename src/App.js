@@ -4,7 +4,7 @@ function App() {
             title('Snow App'),
         ),
         body(
-            h1('Hello Snow'),
+            h1('Hello Snow!'),
         ),
     );
 }
