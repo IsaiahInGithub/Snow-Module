@@ -1,6 +1,7 @@
 function App() {
     returner(
         head(
+            link('style.css'),
             title('Snow App'),
         ),
         body(
